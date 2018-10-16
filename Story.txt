@@ -1,3 +1,11 @@
 This is a tale about making ones own destiny. The story is about a fighter pilot, an intuitive secret agent, an official, and a hateful beastmaster. It takes place in a world-spanning nation on a war-scarred planet. The story begins with the preparation for a performance and ends with an adoration.
  It starts in a gun shop in a manufacturing city. Archaeology versus respecting native cultures plays a major role in this story.
-It was a bright day in May, 1880. There was no customer in the gun shop in that bright sunny day.
+It was a bright day in May. There was no customer in the gun shop in that bright sunny day.
+
+
+
+I think we have gotten lost on changes to NUMEROUS different files. I know I have gotten lost. At base "repo" level ("A3-branch-pull-merge-repeat-1") I can see "Story.txt" and I belive that is where I am supposed to make changes. I am lost if I am supposed to just start editing file, start "pull request", make a "branch" then pull request, etc....
+These are my edits to this story (jeff)
+
+
+Thanks to strange technology, the characters end up in in hell.
